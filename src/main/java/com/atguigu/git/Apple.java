@@ -8,5 +8,6 @@ public class Apple {
 		System.out.println("commit test2");
 		System.out.println("pull2");
 		System.out.println("commit 3...");
+		System.out.println("commit eclipse");
 	}
 }
